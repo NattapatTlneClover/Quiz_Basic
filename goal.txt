@@ -1,0 +1,4 @@
+1. circle in number
+2. when question is correct circle will turn on green when is incorrect it will red
+3.restart quiz button push to begin new retry the question again
+4.icon in front of restart
